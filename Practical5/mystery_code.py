@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer:output random number from 1 to 100
+# Answer:output the biggest one in the 10 random numbers from 1 to 100
 
 # Import libraries
 # randint allows drawing a random number,
