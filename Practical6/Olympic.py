@@ -5,9 +5,9 @@ import matplotlib.pyplot as plt
 #value x y axis
 y=costs
 x=['Los Angeles 1984','Seoul 1988','Barcelona 1992','Atlanta 1996','Sydney 2000','Athens 2003','Beijing 2008','London 2012']
-#set the size of figure
+#set the size of figure I get help from instructor Hugo in Practical6
 plt.figure(figsize = (9, 3))
 plt.bar(x,y)
-#make labels smaller and rotate them
+#make labels smaller and rotate them I get help from instructor Hugo in Practical 6
 plt.xticks(fontsize = 6, rotation= 45)
 plt.show()
