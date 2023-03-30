@@ -1,0 +1,4 @@
+I wonder how have new cases and total cases developed over time in the UK?
+the 34th lines is the beginning of the code, I use # to mark it
+From the plot, it seems that the covid broke out in UK from 2020-3-13 and the rate of infection is very quick. This is just what I expected. The both line come smoothly at first because the covid haven't been spread to UK.
+After 2020-3-13, the covid broke out, so both lines go up quickly.
