@@ -1,3 +1,6 @@
+#Help from classmates
+#Help from https://www.runoob.com/dom/dom-nodes-nodelist.html
+
 from xml.dom.minidom import parse
 import xml.dom.minidom
 import pandas as pd
@@ -11,6 +14,8 @@ def count(id):
             id_value=b.firstChild.nodeValue
             if id==id_value:
                 number += count(node_id.firstChild.nodeValue) + 1
+            else:
+                continue
     return number# design a function to get the number of childnodes
 obo=xml.dom.minidom.parse('go_obo.xml') # parse file
 root = obo.documentElement
