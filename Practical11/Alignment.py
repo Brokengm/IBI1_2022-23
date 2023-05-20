@@ -22,4 +22,4 @@ print(align(cat,human)+'\n')
 print(align(mouse,human)+'\n')
 print(align(cat,mouse)+'\n')
 # human ACE2 gene is more like that of cats
-# this means there are radical changes between human and cat in evolution
+# The similarity between human and cat ACE2 could point to the two species sharing an ancient common ancestor, from which the gene was inherited.
